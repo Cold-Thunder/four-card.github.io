@@ -23,7 +23,7 @@ body{
     justify-content: center;
     content:center;
     margin:auto; 
-    margin-top:86px;  
+    margin:86px 0 80px 0;  
 }
 .header{
     justify-content: center;
@@ -112,7 +112,7 @@ body{
     }
     .main{
         margin-top:92px;
-        margin-bottom: 80px;
+        
     }
     .header{
         width:80%;
